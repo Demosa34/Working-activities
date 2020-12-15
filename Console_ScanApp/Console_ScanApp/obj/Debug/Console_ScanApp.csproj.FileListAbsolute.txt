@@ -1,0 +1,7 @@
+C:\Users\Nik_PC\source\repos\Console_ScanApp\Console_ScanApp\bin\Debug\Console_ScanApp.exe.config
+C:\Users\Nik_PC\source\repos\Console_ScanApp\Console_ScanApp\bin\Debug\Console_ScanApp.exe
+C:\Users\Nik_PC\source\repos\Console_ScanApp\Console_ScanApp\bin\Debug\Console_ScanApp.pdb
+C:\Users\Nik_PC\source\repos\Console_ScanApp\Console_ScanApp\obj\Debug\Console_ScanApp.csprojAssemblyReference.cache
+C:\Users\Nik_PC\source\repos\Console_ScanApp\Console_ScanApp\obj\Debug\Console_ScanApp.csproj.CoreCompileInputs.cache
+C:\Users\Nik_PC\source\repos\Console_ScanApp\Console_ScanApp\obj\Debug\Console_ScanApp.exe
+C:\Users\Nik_PC\source\repos\Console_ScanApp\Console_ScanApp\obj\Debug\Console_ScanApp.pdb
